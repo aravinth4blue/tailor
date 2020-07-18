@@ -1,5 +1,5 @@
 <?php
-$mysqli = new mysqli("localhost","root","","tailor");
+$mysqli = new mysqli("sql12.freesqldatabase.com","sql12355697","bA2aiHMnSl","tailor");
 
 // Check connection
 if ($mysqli -> connect_errno) {
